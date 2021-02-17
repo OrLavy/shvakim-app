@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shvakim-app/static/css/main.2ecc5f76.chunk.css",
-    "main.js": "/shvakim-app/static/js/main.626a4fb2.chunk.js",
-    "main.js.map": "/shvakim-app/static/js/main.626a4fb2.chunk.js.map",
+    "main.js": "/shvakim-app/static/js/main.c0e5f3f6.chunk.js",
+    "main.js.map": "/shvakim-app/static/js/main.c0e5f3f6.chunk.js.map",
     "runtime-main.js": "/shvakim-app/static/js/runtime-main.8153fcaf.js",
     "runtime-main.js.map": "/shvakim-app/static/js/runtime-main.8153fcaf.js.map",
     "static/js/2.0854aaa8.chunk.js": "/shvakim-app/static/js/2.0854aaa8.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8153fcaf.js",
     "static/js/2.0854aaa8.chunk.js",
     "static/css/main.2ecc5f76.chunk.css",
-    "static/js/main.626a4fb2.chunk.js"
+    "static/js/main.c0e5f3f6.chunk.js"
   ]
 }
